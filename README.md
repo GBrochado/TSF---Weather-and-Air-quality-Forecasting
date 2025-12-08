@@ -29,10 +29,7 @@ The dataset is synchronized by timestamp and pre-processed to ensure consistency
 
 ### Authors
 
-Daniel Dias
-
-Gonçalo Monteiro
-
-Gonçalo Brochado
-
-Lucas Santiago
+- Daniel Dias
+- Gonçalo Monteiro
+- Gonçalo Brochado
+- Lucas Santiago
